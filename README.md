@@ -8,7 +8,6 @@
 ---
 
 ### 🚀 Ce que je fais
-### 🚀 Ce que je fais
 * **Infrastructure & Réseaux :** Je déploie et sécurise des environnements (VPN, pfSense, routage OSPF) et je gère des serveurs (Proxmox, Debian, Windows Server).
 * **Automatisation :** J'optimise les processus en créant des workflows complexes (N8N) et en y intégrant des solutions d'Intelligence Artificielle.
 * **Développement :** Je conçois des scripts et des applications sur mesure pour répondre à des besoins techniques d'infrastructure.
