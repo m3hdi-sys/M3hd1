@@ -17,8 +17,5 @@
 * **Certification Journée d'Immersion Orion** - Les Invalides, Paris (2026)
 * **Attestation SensCyber** - Cybermalveillance.gouv.fr (2026)
 
-### ⚡ Fun Fact
-Quand je ne suis pas en train de configurer un tunnel sécurisé ou de m'entraîner pour mes courses de fond (semi-marathon), vous me trouverez sûrement en train de résoudre des challenges de cybersécurité sur **TryHackMe** ! 🛡️🏃‍♂️
-
 ---
 📫 **Me contacter :** https://www.linkedin.com/in/mehdi-ben-moulay/
