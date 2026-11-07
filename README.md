@@ -87,7 +87,7 @@ Spécialités : Virtualisation Proxmox LXC, Automatisation Python/Bash/n8n, GitL
         • <code>10e / 655 équipes</code> en ligne <i>(1900 pts • 7,41 % de fail • 0 hint)</i></li>
         <br>
         <li>🎯 <b>CTF Deep Threats (DGA & Campus OSINT | Sept. 2026)</b><br>
-        • <code>184e / 487 équipes</code> <i>(626 pts — Investigation OSINT, coordination d'équipe et rédaction de rapport d'incident Blue Team)</i></li>
+        • <code>184e / 487 équipes</code> <i>(626 pts — 22 challenges résolus sur l'investigation Marinatech Industries & Institut Lotus)</i></li>
         <br>
         <li>🔍 <b>Atelier Forensic (CyberSup Puteaux) & CTF GMP (2026)</b><br>
         • Investigation numérique (traçabilité, analyse d'en-têtes, extraction de métadonnées EXIF), GeoINT satellite et CTF du Gouvernement Militaire de Paris.</li>
@@ -111,4 +111,3 @@ Spécialités : Virtualisation Proxmox LXC, Automatisation Python/Bash/n8n, GitL
     </td>
   </tr>
 </table>
-```[cite: 1, 2, 3, 7, 8, 9, 10, 11, 12, 22, 27, 30, 31, 32, 33]
